@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "642840306035",
+    "firebase_url": "https://smart-indoor-camera.firebaseio.com",
+    "project_id": "smart-indoor-camera",
+    "storage_bucket": "smart-indoor-camera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642840306035:android:2c24eadeb7a7a4f6",
+        "android_client_info": {
+          "package_name": "com.alexlim.smartindoorcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642840306035-lq49vjoi6ljp3aagg83b7qnbdvfgvngq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWupEbpZK9erfr8FLtNZ6_MW1V2dJ_F30"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

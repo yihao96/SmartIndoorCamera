@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smart-indoor-camera",
+  "private_key_id": "bbda3a9e591ca69c6aab6feb0fdb311a12371aba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQhdytQ5+xevvM\nWJEuB6W9VTnEeME7W9J2lbryKFMbEXpLknwfLOQHXSfBBtj8q0cd0U0PRMYDTrRs\nZQ0EHGMs9SkumyvtOGqAyOzjS84eXJPREQmPk7qRzLDfTFrKHHKw5ar0mCVPW9Kw\nBq3OQkg8UJbxd6t+BoPHilTKL4IWuP8WyALaKxXJnDWMP0C6BsZtxR2rjOgNcSFu\n+EbtteUODRA2Imiq2ikVVlmCz1ey5zFZFObJM3URxJ8X0XaPutkirXcHfbOUPfWU\npGigEHL9x9mpvKKiVGoKR3FBOU9DkYDVfVUqfrvkhpcWh9zGPSQDMBMF1Ie4eJBx\n6CfXyW0nAgMBAAECggEAM0nRkv5Qj49P0p2wK9Gutuh4+nW3FXoKxKckYb6AXmaI\nnYDsraBVf+guSIB+K3uXVOKvoQNJ7vNTVlvufSXcUOkGFZQOFF1teLqy5V82Vepw\nYxpdLybnW0gs8udtZ0vi+9apm1q2xpOvuSMTaemMqeUqkz7be/ZvQEuqekaAKUUq\nbidwsHGbFmkvnLG1Xm8nVWQMEjh5Ijkiez+b79pZYEYd2fGNQIdFRZcMDmksRc8g\nG1YfgyTO/xAGEtWbCMSSAJoOB37qkfAX+gf5fsWUT8MigVd12SAOloYCJQreFTFy\nx0e8qeAeADnDIpL2KnWs8Rh2TUs2tzyS9FYcelRlOQKBgQD3seHsT/E8zME1RWcz\n6bNYh9vwiubLL+KpSLTdITMb2cUcHAQx1L/0LC/vd02k6RLzsNnhvgt4uIWUF4fR\nxnN8Zc/xUf4uAbWtYnGjU98L6wFL310C1qVFTq1xWO6mOAih8Fpmm5eb93zIwR2d\nnYzY5A5320lMsniVFx7X1jssXwKBgQDXg74Tz2iWBgnb1rtuSJRTBq0Q2rr5q0++\nF8tAc8j0R9C2zo5RW2L0XPGxk0v6CFb+XtTBAORH+lKpihBUcb8w4vKuom7y0Jgd\n+zvOiWQF8f9NP7rFvCNF0gZIwSbaj+/w+vcVka14JD7qYf3WKRB7ChT/eA1/Wphw\nq/6rQu70OQKBgBXm6cY+j2ND67WtLGH/wTcL1FvhvGStGErFvhBrlhxZVj+VDp3l\nZQ/PNHHlR71USrO3qJx4dIU5M76TkhPvi1itnASHroUc65aoRMofaXKhVh0CZDQT\nDMwjF90U8w1JmSHQof2+tlo5ORR7VwYP31tyVwEsJ8Aba+QrBjQpolPbAoGBAMRM\nBdxrZTqIo4AulSe9SgRZp1cbs4RnSkm9yG6bR6VgqDVp7G0kDPzAj5CLtn82C27D\nl4t4MXVyBsrPq1IPDPMNM7hm0SGvZ26ff/j+YTGdG0oUSx2B4KrewsSP0cDvq7/W\nByoJN3SfpwK7YIYpfw5iv391rO2b6g9uSZdabuXZAoGBANnR/iy8d4uppNI3VDWV\nFzOKUCQHkoLFY1i6/jOMgfkJMa93ESqpi/itqSR+v9H5lDqWg0RcKDiKUs+dCZ/S\nZ5rfOhbxq1BjF5pPzKW5486cvwlL9gLMHROpgry89EawzMliR8aSaf6VehibIEpd\nQ5Hm+wFkfOcEauu69b9Lb4r9\n-----END PRIVATE KEY-----\n",
+  "client_email": "tokencreator@smart-indoor-camera.iam.gserviceaccount.com",
+  "client_id": "105160440628931874000",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tokencreator%40smart-indoor-camera.iam.gserviceaccount.com"
+}
